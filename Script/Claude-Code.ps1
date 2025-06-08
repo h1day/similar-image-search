@@ -1,4 +1,4 @@
-# スクリプトの開始を通知
+﻿# スクリプトの開始を通知
 Write-Host "--- DevContainer 起動・接続スクリプト ---"
 
 # --- Step 1: Podman machine の起動 ---
