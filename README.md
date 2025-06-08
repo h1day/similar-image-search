@@ -19,7 +19,7 @@
 
 - プロジェクトのルートで以下を実行します。
 
-``` powershell
+``` pwsh
 .\Script\Claude-Code.ps1
 ```
 
@@ -27,3 +27,5 @@
 
 - [devcontainerでClaude Codeを動かす(Windows)](https://zenn.dev/acntechjp/articles/fc111da7542e00)
 - https://knaka20blue.hatenablog.com/entry/2025/01/23/125300
+- [Rancher Desktop by SUSE](https://rancherdesktop.io/)
+- [GitHub MCP Server](https://github.com/github/github-mcp-server)
